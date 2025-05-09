@@ -48,7 +48,7 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "csv-parser": "^3.0.0",
+    "csv-parser": "^3.2.0",
     "dotenv": "^16.4.7",
     "tsx": "^4.19.2"
   }
